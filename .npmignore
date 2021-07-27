@@ -1,0 +1,14 @@
+.idea/
+.gitignore
+.prettierrc
+.travis.yml
+Makefile
+
+# definitions
+!**/*.d.ts
+!*.d.ts
+
+# configuration
+renovate.json
+gulpfile.js
+/.vscode

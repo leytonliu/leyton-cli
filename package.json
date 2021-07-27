@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "description": "leyton cli",
   "main": "index.js",
+  "repository": "https://github.com/leytonliu/leyton-cli.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Leyton Liu",
-  "license": "ISC",
+  "author": "Leyton Liu <895105616@qq.com>",
+  "license": "MIT",
   "bin": {
     "leyton-cli": "./index.js"
   }
