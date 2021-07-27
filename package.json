@@ -1,0 +1,14 @@
+{
+  "name": "leyton-cli",
+  "version": "1.0.0",
+  "description": "leyton cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leyton Liu",
+  "license": "ISC",
+  "bin": {
+    "leyton-cli": "./index.js"
+  }
+}
